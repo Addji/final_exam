@@ -32,7 +32,7 @@ We investigate an approach to generate honey traffic, which represents fake netw
 <hr />
 
 ### Dissertation:
-- [Version 1 (Nov. 2rd, 2023)](./dissertations/first_version.pdf)
+- [Version 1 (Nov. 2rd, 2023)](./dissertations/version1.pdf)
 
 ### Slide:
 - Coming Soon.
