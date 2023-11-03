@@ -6,7 +6,7 @@ Student: Mu Zhu (mzhu5@ncsu.edu)
 
 Advisor: Munindar P. Singh (mpsingh@ncsu.edu)
 
-Exam time: Novmber 16th, 2021, 10:00am - 12:00pm on [Zoom](https://ncsu.zoom.us/j/97387573498)
+Exam time: Novmber 16th, 2023, 10:00am - 12:00pm on [Zoom](https://ncsu.zoom.us/j/97387573498)
 
 ## Commitee:
 - Munindar P. Singh (Chair)
