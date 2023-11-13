@@ -11,7 +11,7 @@ Exam time: November 16th, 2023, 10:00am - 12:00pm on [Zoom](https://ncsu.zoom.us
 ## Commitee:
 - Munindar P. Singh (Chair)
 - Khaled Abdel Harfoush (GSR)
-- Jin-Hee Cho (External Member)
+- Jin-Hee Cho 
 - Rudra Dutta
 - William Enck
 
