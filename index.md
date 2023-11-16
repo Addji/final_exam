@@ -32,7 +32,8 @@ We investigate an approach to generate honey traffic, which represents fake netw
 <hr />
 
 ### Dissertation:
+- [Defensive Deception in the Enterprise Network-(Version 2-Nov. 15th, 2023)](./dissertations/version2.pdf)
 - [Defensive Deception in the Enterprise Network-(Version 1-Nov. 1st, 2023)](./dissertations/version1.pdf)
 
 ### Slide:
-- Coming Soon.
+- [Slides-(Nov. 16th, 2023)](./dissertations/slides.pdf)
