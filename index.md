@@ -32,7 +32,8 @@ We investigate an approach to generate honey traffic, which represents fake netw
 <hr />
 
 ### Dissertation:
-- [Defensive Deception in the Enterprise Network-(Version 2-Nov. 15th, 2023)](./dissertations/final.pdf)
+- [Defensive Deception in Enterprise Networks: Adaptive Honeyfiles, Decoy Network Flows,
+and Honeypots](./dissertations/final.pdf)
 
 
 ### Slide:
